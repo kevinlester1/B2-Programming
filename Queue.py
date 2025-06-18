@@ -36,7 +36,7 @@ def agent_processes_inquiry(queue):
 # --- Simulation Start ---
 print("Simulating the Happy Customer Support Queue:")
 
-# Initialize the empty queuedsaasdsad
+# Initialize the empty queued   
 customer_queue = []
 display_queue(customer_queue) # Show initial empty queue
 
